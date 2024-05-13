@@ -1,0 +1,1 @@
+This repository contains simple codes for an exchange rate API
